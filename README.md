@@ -10,11 +10,11 @@ For this project, we were asked to answer the following questions by building so
 
 ### Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
 
-Total PM2.5 emissions in the US have reduced from the year 1999 to 2008. From the years 1999 to 2002 the reduction was 23%. 2002 to 2005 saw a reduction in emissions although it wasn't significant 3%. From 2005 to 2005 saw a significant reduction of 36%.
+Total PM2.5 emissions in the US have reduced from the year 1999 to 2008. From the years 1999 to 2002 the reduction was 23%. 2002 to 2005 saw a reduction in emissions although it wasn't significant 3%. From 2005 to 2008 saw a significant reduction of 36%.
 
 ## Question 2
 
-### Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (\color{red}{\verb|fips == "24510"|}fips == "24510") from 1999 to 2008? Use the base plotting system to make a plot answering this question.
+### Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (fips == "24510") from 1999 to 2008? Use the base plotting system to make a plot answering this question.
 
 Total pm2.5 emissions decreased in Baltimore City during the period from 1999 to 2008, however the decrease wasn't continuous, the PM2.5 emissions took a jump from 2002 to 2005, but fell sharply from 2005 to 2008. 
 
